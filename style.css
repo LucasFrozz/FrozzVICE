@@ -1,0 +1,48 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+h1{
+background-color: #130241;
+color: rgb(51, 3, 95);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 40px;
+font-style: italic;
+font-weight: 900;
+letter-spacing: 2px;
+line-height: 40px;
+margin-top: 1px;
+margin-bottom: 1px;
+margin-left: 1px;
+margin-right: 1px;
+padding: 1px;
+text-align: center;
+text-transform: uppercase;
+text-shadow: 0 0 10px #ffffff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #ff00de, 0 0 70px #ff00de, 0 0 80px #ff00de, 0 0 100px #ff00de, 0 0 150px #ff00de;
+
+
+
+}
+
+
+p{
+text-indent: 40px;
+margin: 30px;
+text-align: justify;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/36/e4/12/36e412a89ea6199f36e397d3ae593230.gif);
+
+background-size: cover;
+
+
+}
+main{
+    color: #fff;
+}
+
+footer{
+    color: #ffffff;
+}
